@@ -1,4 +1,4 @@
-name = "qcs-r2-uploader"
+name = "cloudflareworkerr"
 main = "src/worker.js"
 compatibility_date = "2026-01-01"
 
