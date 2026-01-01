@@ -1,0 +1,7 @@
+name = "qcs-r2-uploader"
+main = "src/worker.js"
+compatibility_date = "2026-01-01"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "qcs-product-images"
